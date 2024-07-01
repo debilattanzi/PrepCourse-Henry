@@ -1,2 +1,2 @@
 # PrepCourse-Henry
-Este es un repositorio de prueba de Modulo2 del prpcourse de Henry
+Este protecto es na prueba de como crear un respositorio y clnarlo desde github a mi computadora.
